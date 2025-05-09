@@ -35,7 +35,9 @@ El conocimiento de la CNN paso a paso
 ### 🔹Técnicas para evitar sobreajuste
 
 ### 🔹Stacking
-- aplicacion de varios filtros
+- Aplicacion de varios filtros
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1aPZRKTSR96DJwKQXqSQJNr27Hw13eF7y?usp=sharing](https://colab.research.google.com/drive/1KplLfD72Mfh_b60uPcEcGz4UDh4MQuWJ?usp=sharing))
+  
 
 ## Arquitecturas de CNN
 - Arquitecturas mas famosas
