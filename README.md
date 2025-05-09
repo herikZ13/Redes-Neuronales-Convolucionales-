@@ -42,6 +42,8 @@ El conocimiento de la CNN paso a paso
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aPZRKTSR96DJwKQXqSQJNr27Hw13eF7y?usp=sharing)
 
 - Transfer Learning
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6A2_SzT56AAaNqAxaSDNHhBgesXVZf8?usp=sharing)
+
 
 
 ## 🧩 Segmentación Semántica con CNN
