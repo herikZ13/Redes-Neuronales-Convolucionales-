@@ -46,6 +46,9 @@ El conocimiento de la CNN paso a paso
 - Transfer Learning
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6A2_SzT56AAaNqAxaSDNHhBgesXVZf8?usp=sharing)
 
+- Ejemplo de una Deeplab con un backbone Xception (Ejemplo Transfer learning)
+- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kJLNT8eB9DLrHvVfsUT0G0X5vP0YizEA?usp=sharing)
+
 
 
 ## 🧩 Segmentación Semántica con CNN
