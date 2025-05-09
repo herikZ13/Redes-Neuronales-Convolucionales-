@@ -39,8 +39,7 @@ El conocimiento de la CNN paso a paso
 
 ## Arquitecturas de CNN
 - Arquitecturas mas famosas
-- [![Open In Colab](- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
-)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
 
 - Transfer Learning
 
