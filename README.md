@@ -69,7 +69,8 @@ El conocimiento de la CNN paso a paso
 
 ### 🔹 Arquitecturas para Segmentación Semántica
 - U-Net
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ALV0xRoJ8RJoEn8MntugJpES5gwB3oJ?usp=sharing) 
+
+-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ALV0xRoJ8RJoEn8MntugJpES5gwB3oJ?usp=sharing) 
 
 - DeepLab
 
