@@ -18,6 +18,8 @@ El conocimiento de la CNN paso a paso
 - Cómo obtener diferentes o mismas dimensiones de salida
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-Ybvw_PrUTeFeJbeA21WSuIlo5EIxbv?usp=sharing) Operacion de convolucion y tipos de padding
 
+- Correlacion vs Convolucion
+-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwGYbPpoMVOBsLEMZLfVD5S-3q3Ic3_A?usp=sharing) 
 ### 🔹 Agrupamiento (Pooling)
 - Diferentes tipos de pooling
 
