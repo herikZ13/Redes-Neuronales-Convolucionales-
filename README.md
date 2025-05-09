@@ -47,7 +47,7 @@ El conocimiento de la CNN paso a paso
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6A2_SzT56AAaNqAxaSDNHhBgesXVZf8?usp=sharing)
 
 - Ejemplo de una Deeplab con un backbone Xception (Ejemplo Transfer learning)
-- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kJLNT8eB9DLrHvVfsUT0G0X5vP0YizEA?usp=sharing)
+- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F2iCJXGSbAJzyw46xK5SzS91_GScEUFS?usp=sharing)
 
 
 
