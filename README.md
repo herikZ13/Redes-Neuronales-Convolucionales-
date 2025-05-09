@@ -31,6 +31,11 @@ El conocimiento de la CNN paso a paso
 - Ejemplo de una convolucion Transpuesta
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
 
+### 🔹Funciones de Activacion 
+- ejemplos aplicados a una matriz
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1urHQM5_n1fjg0FJobkp4qEY2Rmp0B8vi?usp=sharing)
+
 
 ### 🔹Técnicas para evitar sobreajuste
 
