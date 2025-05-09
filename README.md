@@ -19,10 +19,12 @@ El conocimiento de la CNN paso a paso
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-Ybvw_PrUTeFeJbeA21WSuIlo5EIxbv?usp=sharing) Operacion de convolucion y tipos de padding
 
 - Correlacion vs Convolucion
--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwGYbPpoMVOBsLEMZLfVD5S-3q3Ic3_A?usp=sharing) 
+-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwGYbPpoMVOBsLEMZLfVD5S-3q3Ic3_A?usp=sharing)
+- 
 ### 🔹 Agrupamiento (Pooling)
 - Diferentes tipos de pooling
-
+- -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YtoEnzxyg-5C7eRcixpe5D3FSTsq07IY?usp=sharing)
+  - 
 ### 🔹 Convolución Aritmética
 - Transposición
 - Zero-padding
