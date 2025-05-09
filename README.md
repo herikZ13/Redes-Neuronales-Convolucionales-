@@ -25,13 +25,13 @@ El conocimiento de la CNN paso a paso
 - Diferentes tipos de pooling
 -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YtoEnzxyg-5C7eRcixpe5D3FSTsq07IY?usp=sharing)
     
-### 🔹 Convolución Aritmética
-- Transposición
-- Zero-padding
-- Full padding
 
-### 🔹 Operaciones Básicas de CNN
-- Convoluciones dilatadas, no lineales, 1D, 2D, 3D
+### 🔹 Transposed Convolutions
+
+- Ejemplo de una convolucion Transpuesta
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
+
+
 - Técnicas para evitar sobreajuste: Weight Decay y Dropout
 - Normalización
 
