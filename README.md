@@ -7,7 +7,8 @@ El conocimiento de la CNN paso a paso
 
 ### Diferencia entre una NN y CNN en imagenes 
 - Usar una imagen en NN
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RJKOaMHe1_11tGaG3E8CVuAqrxo_gUe9?usp=sharing) Comprobar si una Red neuronal MLP puede identificar fotos 
+  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RJKOaMHe1_11tGaG3E8CVuAqrxo_gUe9?usp=sharing) Comprobar si una Red neuronal MLP puede identificar fotos 
 
 
 ##  Redes Neuronales Convolucionales (CNN)
