@@ -16,6 +16,7 @@ El conocimiento de la CNN paso a paso
 ### 🔹 Operación de Convolución
 - Relleno con ceros
 - Cómo obtener diferentes o mismas dimensiones de salida
+- [![Open In Colab](https://colab.research.google.com/drive/1Z-Ybvw_PrUTeFeJbeA21WSuIlo5EIxbv?usp=sharing) operacion de convolucion 
 
 ### 🔹 Agrupamiento (Pooling)
 - Diferentes tipos de pooling
