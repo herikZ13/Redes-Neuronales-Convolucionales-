@@ -32,16 +32,18 @@ El conocimiento de la CNN paso a paso
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
 
 
-- Técnicas para evitar sobreajuste: Weight Decay y Dropout
-- Normalización
+### 🔹Técnicas para evitar sobreajuste
 
-### 🔹 Compartición de Parámetros
-- Diferencias entre CNN y una red neuronal tradicional
+### 🔹Stacking
+- aplicacion de varios filtros
 
-## 🏗️ Arquitecturas de CNN
+## Arquitecturas de CNN
+- Arquitecturas mas famosas
+- [![Open In Colab](- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q5hxN-4vlBm-8WEEk4kao9CivQ4d2P1h?usp=sharing)
+)
+
 - Transfer Learning
-- Xception
-- GoogLeNet
+
 
 ## 🧩 Segmentación Semántica con CNN
 
