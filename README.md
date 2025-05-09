@@ -69,8 +69,12 @@ El conocimiento de la CNN paso a paso
 
 ### 🔹 Arquitecturas para Segmentación Semántica
 - U-Net
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ALV0xRoJ8RJoEn8MntugJpES5gwB3oJ?usp=sharing) 
+
 - DeepLab
-- Fully Convolutional Network (FCN)
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJwRcvh-jbSpS8cNDFeHxoZ3Zo1RLaTT?usp=sharing) 
+
 
 ## 💡 Propuesta
 - U-Net asimétrica con ASPP y Squeeze-and-Excitation (SE)
