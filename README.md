@@ -80,7 +80,9 @@ El conocimiento de la CNN paso a paso
 ## 💡 Propuesta
 - U-Net asimétrica con ASPP y Squeeze-and-Excitation (SE)
 
--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpds6dZAJp3WUjKxSCxZDLcM7sENCASG?usp=sharing) 
+-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+
 
 ## 📊 Métricas y Visualización
 - Visualización de resultados
