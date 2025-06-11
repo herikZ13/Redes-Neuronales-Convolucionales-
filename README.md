@@ -48,12 +48,12 @@ El conocimiento de la CNN paso a paso
 - Arquitecturas mas famosas
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aPZRKTSR96DJwKQXqSQJNr27Hw13eF7y?usp=sharing)
 
-- Transfer Learning
+- Transfer Learning / fine tuning
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6A2_SzT56AAaNqAxaSDNHhBgesXVZf8?usp=sharing)
 
-- Ejemplo de una Deeplab con un backbone Xception (Ejemplo Transfer learning)
-- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F2iCJXGSbAJzyw46xK5SzS91_GScEUFS?usp=sharing)
+## Data Augumentation
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jYxeiPgnXEA0bBrerO-nhxoodyRphXma?usp=sharing)
 
 
 ## 🧩 Segmentación Semántica con CNN
@@ -70,17 +70,14 @@ El conocimiento de la CNN paso a paso
 ### 🔹 Arquitecturas para Segmentación Semántica
 - U-Net
 
--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ALV0xRoJ8RJoEn8MntugJpES5gwB3oJ?usp=sharing) 
+-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP_pI3XV8gYFvOrleGYQsip8zVpWQ57I?usp=sharing) 
 
 - DeepLab
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJwRcvh-jbSpS8cNDFeHxoZ3Zo1RLaTT?usp=sharing) 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iGJDIsXANounoVk3pjH6MEichTk-S7KK?usp=sharing) 
 
-
-## 💡 Propuesta
-- U-Net asimétrica con ASPP y Squeeze-and-Excitation (SE)
-
--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- Ejemplo extra:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F3oAyJBNKfXrtwlSsoGrg6iZ6I6X9EZ1?usp=sharing) 
 
 
 
@@ -93,16 +90,4 @@ El conocimiento de la CNN paso a paso
 
 # Dataset utilizados:
 ### Aerial Image 
--[Dataset original](https://drive.google.com/drive/folders/1b8x8gcbLaAOrkQkrd_NwwDtAM1IsfE6i?usp=drive_link)
 
-### Imagenes etiquetadas: 
-- [images](https://drive.google.com/drive/folders/1WEA1YBhYZTqzvI33has5lVzKrWWR-p7z?usp=sharing)
-- [mask](https://drive.google.com/drive/folders/1SOjdx6cr-rytFdPGxf3H55oEvFfoxTDc?usp=sharing)
-
-### Resized images 144*256
-- Contenido con "Data augumentation" aplicado.
-  
-- [Train images](https://drive.google.com/drive/folders/17u7ic4yVK5OKAgUNxaavA_MYDV43hlSB?usp=sharing)
-- [Train mask](https://drive.google.com/drive/folders/17r4BFINRYrp-IQW4R4slPWqb2RBbwWEU?usp=sharing)
-- [Test images](https://drive.google.com/drive/folders/17vhfswQkh9ABQly2H2nDIQBoX0Gebe4e?usp=sharing)
-- [Test mask](https://drive.google.com/drive/folders/17w541LC2OM-0ABVaaTfNgTbPzBv8tqaH?usp=sharing)
